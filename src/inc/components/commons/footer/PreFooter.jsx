@@ -18,12 +18,12 @@ const PreFooter = () => {
               style={{ backgroundImage: `url(${Images.preFooter.bg})` }}
             >
               <Text5Xl
-                text="CONTACT US FOR SOFTWARE DEVELOPMENT."
+                text="FOR SOFTWARE DEVELOPMENT."
                 classes="font-bold text-center lg:text-start max-w-2xl !leading-[3rem] md:!leading-[4rem]"
               />
               <a
                 className="relative"
-                href="https://wa.link/bgpq3g"
+                href="https://nexbytes.rf.gd"
                 target="_blank"
               >
                 <div className="z-[1]" style={{ position: "inherit" }}>
